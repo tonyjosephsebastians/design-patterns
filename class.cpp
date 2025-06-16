@@ -77,15 +77,15 @@ class BankAccount {
 
 };
 
-int main()
-{
+// int main()
+// {
 
-        BankAccount myaacount("A12345","Tony",5000);
-        myaacount.deposit(1000);
-        myaacount.withdraw(250);
-        double balance =  myaacount.getbalance();
-        cout<<"Blanace$"<<balance<<endl;
-        myaacount.displayInfo();
-    return 0;
-}
+//         BankAccount myaacount("A12345","Tony",5000);
+//         myaacount.deposit(1000);
+//         myaacount.withdraw(250);
+//         double balance =  myaacount.getbalance();
+//         cout<<"Blanace$"<<balance<<endl;
+//         myaacount.displayInfo();
+//     return 0;
+// }
 

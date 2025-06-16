@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/TONY/Downloads/design patterns -c++",
-      "program": "c:/Users/TONY/Downloads/design patterns -c++/build/Debug/outDebug",
+      "cwd": "c:/Users/TONY/Downloads/design patterns -c++/design-patterns",
+      "program": "c:/Users/TONY/Downloads/design patterns -c++/design-patterns/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
